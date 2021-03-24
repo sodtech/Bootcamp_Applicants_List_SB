@@ -5,7 +5,7 @@
   "dependencies": {
     "Microsoft.Office.Interop.Outlook": "[15.0.4797.1003]",
     "UiPath.Excel.Activities": "[2.9.5]",
-    "UiPath.Mail.Activities": "[1.9.5]",
+    "UiPath.Mail.Activities": "[1.10.3-beta.1500010]",
     "UiPath.System.Activities": "[20.10.4]",
     "UiPath.UIAutomation.Activities": "[20.10.9]"
   },
