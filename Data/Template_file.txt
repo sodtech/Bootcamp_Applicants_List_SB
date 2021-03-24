@@ -1,0 +1,3 @@
+Hello Supervisor.
+Please find attached, is the excel document that contains a record of the candidate that applied for the web Dev Program.
+Best Regards,Bot.
